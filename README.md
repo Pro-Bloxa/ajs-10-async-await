@@ -1,5 +1,5 @@
 #CI Test
-[![Build status](https://ci.appveyor.com/api/projects/status/tg1n2yh1b4kle5rc?svg=true)](https://ci.appveyor.com/project/Pro-Bloxa/ajs-10-promise)
+[![Build status](https://ci.appveyor.com/api/projects/status/qyivnbqjcrwaxq7o?svg=true)](https://ci.appveyor.com/project/Pro-Bloxa/ajs-10-async-await)
 
 async/await
 Легенда
